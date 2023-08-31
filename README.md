@@ -55,6 +55,6 @@ For a step-by-step visual guide, check out our YouTube tutorial:
 
 ## Support
 
-If you encounter any issues or have questions about the Kids' Art Maker, please reach out to our support team at [support@kidsartmaker.com](mailto:support@kidsartmaker.com).
+If you encounter any issues or have questions about the Kids' Art Maker, please reach out to our support team at [official@jadadev.com](mailto:official@jadadev.com).
 
 We hope your child has a fantastic time exploring their creativity with the Art Maker by JadaDev! Happy art-making!
